@@ -1,0 +1,6 @@
+/.venv/
+/.idea
+/TMInitiatesScanner/data
+/.env
+/data/*
+/data
